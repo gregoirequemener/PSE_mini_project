@@ -75,8 +75,7 @@ pse_mini_project/
 2. Descriptive statistics
 3. Regression model
 4. Prediction exercise
-5. Custom modeling tool
-6. Conclusion
+5. Conclusion
 
 ## 📈 Model Performance
 The linear regression model (OLS) is a powerful tool for predicting the influence of budget on a film's profitability. 
