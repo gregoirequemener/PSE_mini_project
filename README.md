@@ -47,16 +47,27 @@ git clone (https://github.com/gregoirequemener/PSE_mini_project.git)
 ### Project structure
 pse_mini_project/
 │
+
 ├── notebook/
+
 │   └── mini_project_notebook.ipynb
+
 │
+
 ├── data/
+
 │   └── V1dataframe_films.xlsx
+
 │
+
 ├── instructions/
+
 │   └── Python mini projet GQ version anticipée.pptx
+
 │   └── README.md
+
 │
+
 └── .gitignore
 
 ### Work structure
